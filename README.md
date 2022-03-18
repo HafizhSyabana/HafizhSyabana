@@ -1,17 +1,21 @@
-### Hi there 👋
+### Hi Friend 👋
+![kle](https://user-images.githubusercontent.com/101510248/158951847-5fc67c40-b020-4e5a-afd0-bbbe5cebdb66.png)
 
-<!--![004](https://user-images.githubusercontent.com/101510248/158951431-c0a841c6-4c4f-47a9-833e-8e1b209dd4e2.jpg)
-
-**HafizhSyabana/HafizhSyabana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+							   MUHAMMAD HAFIZH SYABANA
+                                                      -------------------------
+                                                        WELCOME IN MY GITHUB
+# Introduce My Self
+        My name is Muhammad Hafizh Syabana 😎 
+        
+        You can call me Hafiz 👍
+        
+        I'm born in Brebes, Jawa Tengah 👼
+        
+- 🔭 I’m currently not working 
+- 🌱 I’m currently learning C++/C and JavaScript
+- 👯 I’m looking to collaborate on other developer
+- 🗿 Fun fact : I like music & playing valorant 
 -->
+
+   ![SmugAnimeGIF](https://user-images.githubusercontent.com/101510248/158954359-f03f3b86-96ac-4076-9a39-3389cfb6d6b2.gif)
+
